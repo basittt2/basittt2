@@ -6,7 +6,7 @@ I'm a Computer Science student at SZABIST Karachi, passionate about **web develo
 🔭 **Currently working on:** Data Structures and Algorithms  
 🌱 **Currently learning:** React and Backend Development to become a Full-Stack Developer  
 💬 **Ask me about:** Java, Web Development, and small coding projects  
-📫 **How to reach me:** abdulbasit@aiesec.net 
+📫 **How to reach me:** basit.bhatti2005@gmail.com 
 
 ---
 
